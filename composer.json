@@ -1,0 +1,14 @@
+{
+    "name": "ihmis-suski/c-base",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cannonerd",
+            "email": "ihmis.suski@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "silex/silex": "2.*"
+    }
+}
